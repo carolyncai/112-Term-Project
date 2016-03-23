@@ -1,0 +1,23 @@
+11/07/2015: ~6 hours. drew background, player sprite, some NPCs and save areas.
+
+11/14/2015: ~5 hours. familiarized with pygame and set up player & side scrolling background.
+
+11/15/2015: ~5 hours?? spent a sad amount of time fixing a bug with side scrolling. now you can walk off screen when you reach the end of the map. also added text display and location-based flavor text capabilities.
+
+11/20/2015: ~5 hours: 2 hours storyboard, 1 hour proposal, 2 hours comp. analysis.
+
+11/21/2015: ~8-10 hours but 30% of it was just me drawing things. worked on: signs, heal points, modes.
+
+11/23/2015: ~2-3 hours … half was spent on drawing and the other half on NPCs. NPCs require more work though.
+
+Thanksgiving Break: ~15-20 hours?? at least?? worked on bullet hell (BH). it was a Long time
+
+11/30-12/01: ~1-2 hours. added fade-ins, auto NPC interactions, and fixed some bugs.
+
+WHOOPS I forgot to update this during the last week so I’ll have to estimate
+
+12/04-12/06: ~10-12 hours? added more BH levels, extra modes, NPCs, etc
+
+12/07-12/09: ~3-4 hours? made some minor adjustments, added music (which took a while)
+
+12/10: ~2 hours making the video (the day of…haha)

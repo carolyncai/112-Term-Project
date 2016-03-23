@@ -1,0 +1,20 @@
+***What is my term project?***
+
+My term project is a short, linear game that is a combination of a role-playing game (RPG) (similar to those made with RPG Maker) and a “bullet hell” (a shooting game in which the player must dodge a large amount of enemy “bullets”). The player takes on the role of a Cube who must go on a journey through a new town, but runs into trouble with some well-meaning neighbors. In RPG mode, the player is allowed to explore an environment and interact with items and people; combat is in the form of a bullet hell in which the player must defeat or outlast the enemy. The game is completed once the player has reached their destination and accomplished the game objective.
+
+
+***How do I run it?***
+
+1. Have the pygame module installed and make sure it works for Python 3. 
+
+	On Mac OS X: I used these two guides:
+		http://florian-berger.de/en/articles/installing-pygame-for-python-3-on-os-x/
+	 	https://jamesfriend.com.au/installing-pygame-python-3-mac-os-yosemite
+	On Windows: Seems like you can find the appropriate version of pygame here:
+		https://bitbucket.org/pygame/pygame/downloads
+
+2. Unzip my TP folder. Make sure all code, music, and images are in the same folder (no subfolders)
+3. Find and open “TP_main.py” . 
+	(If this is my Autolab submission open “TP_main_no_music.py” .) 
+	(Apparently .wav files are super huge)
+4. Run it with the keyboard shortcut of your choice. Further instructions are provided in-game.
